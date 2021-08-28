@@ -1,0 +1,8 @@
+C:\Users\PC\source\repos\ExaRecuMovil\ExaRecuMovil\ExaRecuMovil\obj\Debug\netstandard2.0\ExaRecuMovil.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ExaRecuMovil\ExaRecuMovil\ExaRecuMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC\source\repos\ExaRecuMovil\ExaRecuMovil\ExaRecuMovil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC\source\repos\ExaRecuMovil\ExaRecuMovil\ExaRecuMovil\obj\Debug\netstandard2.0\VideoList.xaml.g.cs
+C:\Users\PC\source\repos\ExaRecuMovil\ExaRecuMovil\ExaRecuMovil\obj\Debug\netstandard2.0\VideoView.xaml.g.cs
+C:\Users\PC\source\repos\ExaRecuMovil\ExaRecuMovil\ExaRecuMovil\obj\Debug\netstandard2.0\ExaRecuMovil.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ExaRecuMovil\ExaRecuMovil\ExaRecuMovil\obj\Debug\netstandard2.0\ExaRecuMovil.AssemblyInfo.cs
+C:\Users\PC\source\repos\ExaRecuMovil\ExaRecuMovil\ExaRecuMovil\obj\Debug\netstandard2.0\ExaRecuMovil.csproj.CoreCompileInputs.cache
